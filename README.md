@@ -1,3 +1,7 @@
+link do aplikacji https://apkawsb.azurewebsites.net/
+
+
+
 # Feedmail
 
 WebApp wrote in node js and vanilla js for sending rss via email
